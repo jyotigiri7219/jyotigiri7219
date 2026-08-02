@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jyotigiri7219&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotigiri7219&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 <p align="center">
